@@ -1,2 +1,2 @@
 # Webscraping
-Caleta de dados/ raspagem web
+Notebooks com exercícios de coleta de dados/ raspagem web.
